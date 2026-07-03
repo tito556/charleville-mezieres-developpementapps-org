@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charleville-mezieres.developpementapps.org/sitemap.xml
